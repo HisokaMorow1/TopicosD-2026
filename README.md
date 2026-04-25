@@ -28,7 +28,7 @@ Este proyecto reúne implementaciones prácticas de modelos de predicción y cla
 
 ---
 
-## 📚 Estructura
+## Estructura
 
 ```
 topicoD/
@@ -43,7 +43,7 @@ topicoD/
 
 ---
 
-## 👤 Información
+## Información
 
 **Estudiante:** Duvan Figueroa  
 **Profesor:** Dr. Carlos Arias  
@@ -52,6 +52,6 @@ topicoD/
 
 ---
 
-## 📝 Notas
+## Notas
 
 Este repositorio se actualiza continuamente conforme avanzan los temas del curso. Cada notebook contiene ejercicios prácticos resueltos con explicaciones y visualizaciones de resultados.
